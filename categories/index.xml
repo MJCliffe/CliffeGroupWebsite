@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cliffe Group</title>
-    <link>//cliffe.nottingham.ac.uk/categories/</link>
+    <link>//mjcliffe.github.io/CliffeGroupWebsite/categories/</link>
     <description>Recent content in Categories on Cliffe Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//cliffe.nottingham.ac.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
