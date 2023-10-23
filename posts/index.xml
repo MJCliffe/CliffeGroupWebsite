@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cliffe Group</title>
+    <link>//cliffe.nottingham.ac.uk/posts/</link>
+    <description>Recent content in Posts on Cliffe Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate><atom:link href="//cliffe.nottingham.ac.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to use ToposPro to work out a topology of a framework</title>
+      <link>//cliffe.nottingham.ac.uk/posts/how_to_topology/</link>
+      <pubDate>Mon, 01 Oct 2018 09:00:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/how_to_topology/</guid>
+      <description>Topology is a very important way of classifying the connectivity of framework materials but ToposPro, the standard software for topological analysis can be quite intimidating. I am no mathematical topologist or ToposPro expert, but here is a short guide for how to take a CIF and analyse the topology of its simplified net. Much more information is available from the ToposPro website and manual. If you would rather one of the experts deteremines the topology of your structure for you, the ToposPro team will now do this for you.</description>
+    </item>
+    
+    <item>
+      <title>Stories from old papers</title>
+      <link>//cliffe.nottingham.ac.uk/posts/old_papers/</link>
+      <pubDate>Mon, 11 Jun 2018 01:00:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/old_papers/</guid>
+      <description>Figure: An aphid sketched by George Bowlder Buckton in &amp;lsquo;A monograph of the Membracidæ&amp;rsquo;. Image digitised by the University of Illinois Urbana Champaign, available via the Biodiversity Heritage Library.
+Most people&amp;rsquo;s idea of chemistry is of lab-coated scientists mixing liquids, making explosions, causing fires, and growing crystals. Though this stereotype—like most—is based on reality, a key part of any chemistry project is sitting down and reading the ‘literature’: the research papers written by scientists who have worked in the field before you.</description>
+    </item>
+    
+    <item>
+      <title>3D-printing: form and substance</title>
+      <link>//cliffe.nottingham.ac.uk/posts/3dprinting&#43;materials/</link>
+      <pubDate>Mon, 01 May 2017 09:00:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/3dprinting&#43;materials/</guid>
+      <description>3D printing is widely predicted to be the future of manufacturing, by groups as varied as the excitable fringes of Silicon Valley and the accelerationist left. They believe that everyone will have a 3D printer in their home, just like everyone has (had?) a &amp;lsquo;2D&amp;rsquo; printer, and these printers are going to produce the quotidian objects of our lives. Just as a printer allows you to produce a piece of paper with whatever words or pictures you desire, your desktop 3D printer will produce any arbitrary physical object.</description>
+    </item>
+    
+    <item>
+      <title>The Kitchen as a Laboratory</title>
+      <link>//cliffe.nottingham.ac.uk/posts/chefstable&#43;laudan/</link>
+      <pubDate>Sun, 03 Jan 2016 09:00:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/chefstable&#43;laudan/</guid>
+      <description>At this time of year my thoughts begin to turn to food, as of course do many other people’s. As a chemist however, I can’t help but think about food from a scientific perspective. One of the most interesting trends, to my mind at least, is the way that food science has come into the public’s consciousness through the high-end cuisine of ‘molecular gastronomy’ — even if, like cooking science doyen Harold McGee, I find the name a little daft .</description>
+    </item>
+    
+    <item>
+      <title>Short introduction to my research</title>
+      <link>//cliffe.nottingham.ac.uk/posts/introduction/</link>
+      <pubDate>Tue, 02 Jun 2015 09:00:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/introduction/</guid>
+      <description>This is a short and personal introduction to my research interests. I have tried to keep it non-technical and as brief as possible. I will be also posting some additional short articles explaining the key concepts in more detail as I go. Hopefully even with pictures!
+I am a materials chemist. Materials chemistry, like all fields of research, does not have a firm dictionary definition. What I mean by a materials chemist, then, is a chemist who tries to make and understand chemicals that do things: that is, materials with interesting and unusual properties.</description>
+    </item>
+    
+    <item>
+      <title>A short history of explosives</title>
+      <link>//cliffe.nottingham.ac.uk/posts/bang_explosives/</link>
+      <pubDate>Sat, 31 Jan 2015 18:45:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/bang_explosives/</guid>
+      <description>This is a short article which was published in Oxford&amp;rsquo;s student popular science magazine, Bang!. See it in its illustrated glory here (page 21).
+Explosives Ask the average ten-year-old what chemists do, and “make explosions” would probably be the first answer. As explosions tend to be inconvenient if you are concerned about the structural integrity of your working environment, most chemists try to avoid them. But what is an explosion?</description>
+    </item>
+    
+    <item>
+      <title>Bullvalene</title>
+      <link>//cliffe.nottingham.ac.uk/posts/bang_bullvalene/</link>
+      <pubDate>Sat, 31 Jan 2015 18:45:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/bang_bullvalene/</guid>
+      <description>This is a short post based on a J Chem Ed article, describing a remarkable hydrocarbon in permanent flux. Figure: The structural formula of bullvalene - every single carbon atom in the structure will interchange with every other atom at room temperature.
+Bullvalene A glance at a line drawing of a molecule might give the impression that molecules are sedate entities, calming drifting through the microscopic world. Molecules are in reality very lively, perpetually vibrating, tumbling and bouncing off each other.</description>
+    </item>
+    
+    <item>
+      <title>NTE &amp; NLC OMG!</title>
+      <link>//cliffe.nottingham.ac.uk/posts/bang_ntenlc/</link>
+      <pubDate>Sat, 31 Jan 2015 18:45:00 +0000</pubDate>
+      
+      <guid>//cliffe.nottingham.ac.uk/posts/bang_ntenlc/</guid>
+      <description>This is a short article which was published in Oxford&amp;rsquo;s student popular science magazine, Bang!. See it in its illustrated glory here (page 20).
+Things expand when heated and contract when compressed. Obvious – but not always true. In the past fifteen years researchers have produced some striking examples of counterintuitive materials that contract on heating (negative thermal expansion, NTE) or expand in one direction when uniformly compressed (negative linear compressibility NLC).</description>
+    </item>
+    
+  </channel>
+</rss>
