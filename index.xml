@@ -6,7 +6,7 @@
     <description>Recent content on Cliffe Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Mar 2023 12:00:00 +0000</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 18:44:00 +0000</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matt Cliffe</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/people/mattcliffe/</link>
@@ -100,6 +100,16 @@ Outside of Chemistry, he is a keen chef, enjoys Brazilian Jiu-Jitsu and is a big
 2020-21 Peter Speakman (MSci)
 2019-20 Chris Rink (MSci)
 2019-20 Callum Rosenberg (MSci), Champness Group</description>
+    </item>
+    
+    <item>
+      <title>An open source webtool for calculating compressibilities &amp; thermal expansion</title>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/joss_2023_pascal/</link>
+      <pubDate>Sun, 22 Oct 2023 18:44:00 +0000</pubDate>
+      
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/joss_2023_pascal/</guid>
+      <description>Figure: PASCal Logo shows an indicatrix, which plots the anisotropy of response of a crystal.
+This paper describes the newest version of PASCal, a simple webtool designed to calculate the principal thermal expansivities, compressibilities or response to electrochemical strain of a system from lattice parameters. For low symmetry crystals, the arbitrary choice of unit cell means that if you only look at the cell lengths, it is possible to miss interesting features in the (thermo)mechanical behaviour of a crystal, for example negative thermal expansion or negative compressibilities.</description>
     </item>
     
     <item>
