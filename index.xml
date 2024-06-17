@@ -6,7 +6,7 @@
     <description>Recent content on Cliffe Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Oct 2023 09:00:00 +0000</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 10:00:00 +0000</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matt Cliffe</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/people/mattcliffe/</link>
@@ -64,16 +64,6 @@ Outside of Chemistry, he is a keen chef, enjoys Brazilian Jiu-Jitsu and is a big
     </item>
     
     <item>
-      <title>Jordan James</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/people/jordanjames/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/people/jordanjames/</guid>
-      <description>jordan.james[at]nottingham.ac.uk Jordan is a PhD student who joined the Cliffe group in January 2024. He is investigating the structure and quantum properties of non-stoichiometric radical MOFs using X-ray and neutron characterisation methods. Jordan graduated from the University of Bath in 2023 with a Master’s in chemistry. His research with the Burrows group at Bath looked into the control of particle size and release in MOFs.
-In his spare time, Jordan likes to go on hiking trips and read the classics.</description>
-    </item>
-    
-    <item>
       <title>Eda Bonde Colliver</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/people/edabondecolliver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -109,6 +99,16 @@ In his spare time, Jordan likes to go on hiking trips and read the classics.</de
 2020-21 Sara Incarbone (MSci)
 2020-21 Adam Lansdowne (MSci)
 2020-21 Peter Speakman (MSci)</description>
+    </item>
+    
+    <item>
+      <title>A molecular framework honeycomb magnet</title>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</link>
+      <pubDate>Mon, 20 May 2024 10:00:00 +0000</pubDate>
+      
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</guid>
+      <description>In this paper we investigate a metal thiocyanate compound [Na(OH2)3]Mn(NCS)3 which consists of rods of a honeycomb manganese thiocyanate network threaded by rods consisting of sodium cations and water. This structure has perfect three-fold symmetry, but unusually, the manganese atom do not lie on an inversion centre (i.e. each metal atom knows which way up it is), although the crystal as a whole does have inversion symmetry.
+Because of the high symmetry of magnetic honeycombs, they can have some interesting magnetic properties and so we decided to measure them for [Na(OH2)3]Mn(NCS)3.</description>
     </item>
     
     <item>
