@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Crinkle cut magnets </title>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</link>
+      <pubDate>Tue, 02 Jul 2024 10:00:00 +0000</pubDate>
+      
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</guid>
+      <description>Figure 1. A schematic illustration of how tilting ferromagnetic chains with strong single ion anisotropy can produce a noncollinear structure with a net moment
+In most magnetic materials, the underlying atomic spins line up either parallel (ferromagnetic correlation) or antiparallel (antiferromagnetic correlation): they are collinear. In noncollinear magnets spins can arrange themselves in any direction relative to each other (depending on the interactions and geometry of the material) and these noncollinear spin textures can produce magnetic properties that are hard to realise otherwise, including electrical control over magnetic spin or nanometric magnetic data storage.</description>
+    </item>
+    
+    <item>
       <title>A molecular framework honeycomb magnet</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 +0000</pubDate>
@@ -41,10 +51,10 @@ This paper describes the newest version of PASCal, a simple webtool designed to 
     
     <item>
       <title>Nature inspired complex magnetic order</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2023_csmncs3/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2023_csmncs3/</link>
       <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2023_csmncs3/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2023_csmncs3/</guid>
       <description>Summary by Maddie Geers
 Nature is a deep-rooted source of inspiration for innovations, a notion continually woven into our everyday lives. Magnesium silicate (MgSiO3) is one of the most abundant minerals on Earth and about 20 years ago it was discovered to undergo a structural transition. In most of the Earth&amp;rsquo;s mantle, magnesium silicate adopts the perovskite structure, however, plunging to the lower depths of the Earth’s mantle it evolves to have the post-perovskite structure.</description>
     </item>
@@ -94,10 +104,10 @@ Metal-organic frameworks (MOFs) are of great interest for applications such as e
     
     <item>
       <title>Combining complex orders in perovskites</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_anibiscn6/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</link>
       <pubDate>Fri, 04 Dec 2020 12:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_anibiscn6/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</guid>
       <description>Many of the most useful properties of materials arise from the collective ordering of many individual nanoscale components across an entire crystal: for example, ferromagnetism is the result of aligning the magnetic spins within a material and ferroelectricity is the ordering of polar electric distortions. One way to create new properties in materials is therefore to order simultaneously multiple different features at once (e.g. combining ferromagnetic order with ferroelectric order to create magnetic and electric &amp;lsquo;multiferroics&amp;rsquo;).</description>
     </item>
     
@@ -123,10 +133,10 @@ Defects are key to the properties of all kinds of materials, from silicon chips 
     
     <item>
       <title>Diverse defects in metal thiocyanate frameworks</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_defect_ncs/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</link>
       <pubDate>Fri, 07 Feb 2020 09:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_defect_ncs/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</guid>
       <description>&amp;ldquo;Your imperfections are what make you perfect&amp;rdquo; is not just a twee word-art slogan on the wall of a chain coffee shop but also a guide for materials chemistry. Defects, the deviations from perfect crystalline order, are key to producing the useful properties of many solids, from solar cells to gemstones. The challenge facing chemists, however, is that defects are hard to see: there are not many of them and they are usually randomly distributed throughout the material.</description>
     </item>
     
@@ -175,10 +185,10 @@ Reading the abstracts from conferences on fields ranging from crystallography th
     
     <item>
       <title>Thiocyanate &#39;Prussian Blues&#39;</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/chemsci_2018_mbiscn6/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</link>
       <pubDate>Mon, 29 Oct 2018 11:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/chemsci_2018_mbiscn6/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</guid>
       <description>Left: the structure of Fe[Bi(SCN)6] determined using single crystal X-ray diffraction. Right: the optical absorption spectrum of M[Bi(SCN)6], showing which wavelengths of light each compound absorbs.
 Prussian Blue is an iconic material. Discovered around 1706, ostensibly by adding iron sulfate to a concotion of boiled animal blood and potassium carbonate, it was the first modern purely synthetic pigment. It made blue paint that wouldn&amp;rsquo;t fade available to artists at a low cost and perhaps most famously dyed the uniforms of the Royal Prussian Army from the early 18th century through to the 20th.</description>
     </item>

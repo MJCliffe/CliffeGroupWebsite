@@ -6,7 +6,7 @@
     <description>Recent content on Cliffe Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 May 2024 10:00:00 +0000</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 10:00:00 +0000</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matt Cliffe</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/people/mattcliffe/</link>
@@ -24,15 +24,6 @@ He received his DPhil (2015) at the University of Oxford under the supervision o
       
       <guid>//mjcliffe.github.io/CliffeGroupWebsite/people/rinkukushwaha/</guid>
       <description>rinku.kushwaha[at]nottingham.ac.uk Rinku joined the Cliffe group as a Postdoctoral Research Associate (PDRA). His research explores the magnetic and conducting properties resulting from doping in metal–organic frameworks (MOF). He comes from Uttar Pradesh, India. Rinku obtained his bachelor&amp;rsquo;s degree from the University of Allahabad and later joined the Indian Institute of Science Education and Research (IISER), Pune, for an integrated MS-PhD program. He completed his Ph.D. in Chemistry under the supervision of Prof.</description>
-    </item>
-    
-    <item>
-      <title>Maddie Geers</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/people/maddiegeers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/people/maddiegeers/</guid>
-      <description>pcymrge[at]nottingham.ac.uk Maddie re-joined the Cliffe group as a PhD student in October 2020, after doing a MSci project (18-19). Her studies concentrate on the magnetic properties of metal thiocyanate frameworks and how they can be controlled through doping the structures with alternative metals. She has a focus on neutron diffraction measurements, so she is based at the Institut Laue-Langevin neutron research centre, where she is co-supervised by Dr Laura Cañadillas-Delgado.</description>
     </item>
     
     <item>
@@ -64,41 +55,32 @@ Outside of Chemistry, he is a keen chef, enjoys Brazilian Jiu-Jitsu and is a big
     </item>
     
     <item>
-      <title>Eda Bonde Colliver</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/people/edabondecolliver/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/people/edabondecolliver/</guid>
-      <description>pcyec8[at]nottingham.ac.uk Eda is a fourth-year MSci student researching ruthenium MOFs. Outside of chemistry, she is a keen water polo player and rower, and enjoys film photography.</description>
-    </item>
-    
-    <item>
-      <title>Amelia Thompson</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/people/ameliathompson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/people/ameliathompson/</guid>
-      <description>pcyat14[at]nottingham.ac.uk Amelia is a fourth year Chemistry and Molecular Physics student looking into orbital liquid behaviour in nitrite perovskites. Amelia figure skates and used to compete when she was younger. She is also a part of the archery team at UoN archery club and enjoys reading in her spare time.</description>
-    </item>
-    
-    <item>
       <title>Alumni</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/people/alumni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//mjcliffe.github.io/CliffeGroupWebsite/people/alumni/</guid>
-      <description>2019-23 Jem Pitcairn (PhD, PDRA), PDRA, Clark Group, University of Birmingham
-2020-21 Claire Housely (PhD), Committee Specialist for the House of Commons Science and Technology Committee, @StringaTheory
+      <description>2020-23 Madeleine Geers (PhD), PDRA, Clulow Group, Uppsala University
+2019-23 Jem Pitcairn (PhD, PDRA), PDRA, Clark Group, University of Birmingham
+2020-21 Claire Housely (PhD), Senior Nuclear Policy Advisor, Dept. for Energy Security and Net Zero, @StringaTheory
 2016-21 Francesca Firth (MSci, PhD), Veranova, @FC_Firth
+2023-24 Amelia Thompson (MSci)
+2023-24 Eda Bonde Colliver (MSci)
 2022-23 Emily Myatt (MSci)
 2022-23 Amos Blyth (MSci)
 2021-22 Jacob Brownlee (MSci)
 2021-22 Sophie McMillan (MSci)
-2021-22 Joel Shenton (MSci)
-2020-21 Alex Ollier de Marichard (MRes)
-2020-21 Sara Incarbone (MSci)
-2020-21 Adam Lansdowne (MSci)
-2020-21 Peter Speakman (MSci)</description>
+2021-22 Joel Shenton (MSci)</description>
+    </item>
+    
+    <item>
+      <title>Crinkle cut magnets </title>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</link>
+      <pubDate>Tue, 02 Jul 2024 10:00:00 +0000</pubDate>
+      
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</guid>
+      <description>Figure 1. A schematic illustration of how tilting ferromagnetic chains with strong single ion anisotropy can produce a noncollinear structure with a net moment
+In most magnetic materials, the underlying atomic spins line up either parallel (ferromagnetic correlation) or antiparallel (antiferromagnetic correlation): they are collinear. In noncollinear magnets spins can arrange themselves in any direction relative to each other (depending on the interactions and geometry of the material) and these noncollinear spin textures can produce magnetic properties that are hard to realise otherwise, including electrical control over magnetic spin or nanometric magnetic data storage.</description>
     </item>
     
     <item>
@@ -144,10 +126,10 @@ This paper describes the newest version of PASCal, a simple webtool designed to 
     
     <item>
       <title>Nature inspired complex magnetic order</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2023_csmncs3/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2023_csmncs3/</link>
       <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2023_csmncs3/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2023_csmncs3/</guid>
       <description>Summary by Maddie Geers
 Nature is a deep-rooted source of inspiration for innovations, a notion continually woven into our everyday lives. Magnesium silicate (MgSiO3) is one of the most abundant minerals on Earth and about 20 years ago it was discovered to undergo a structural transition. In most of the Earth&amp;rsquo;s mantle, magnesium silicate adopts the perovskite structure, however, plunging to the lower depths of the Earth’s mantle it evolves to have the post-perovskite structure.</description>
     </item>
@@ -197,10 +179,10 @@ Metal-organic frameworks (MOFs) are of great interest for applications such as e
     
     <item>
       <title>Combining complex orders in perovskites</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_anibiscn6/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</link>
       <pubDate>Fri, 04 Dec 2020 12:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_anibiscn6/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</guid>
       <description>Many of the most useful properties of materials arise from the collective ordering of many individual nanoscale components across an entire crystal: for example, ferromagnetism is the result of aligning the magnetic spins within a material and ferroelectricity is the ordering of polar electric distortions. One way to create new properties in materials is therefore to order simultaneously multiple different features at once (e.g. combining ferromagnetic order with ferroelectric order to create magnetic and electric &amp;lsquo;multiferroics&amp;rsquo;).</description>
     </item>
     
@@ -226,10 +208,10 @@ Defects are key to the properties of all kinds of materials, from silicon chips 
     
     <item>
       <title>Diverse defects in metal thiocyanate frameworks</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_defect_ncs/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</link>
       <pubDate>Fri, 07 Feb 2020 09:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cx_2020_defect_ncs/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</guid>
       <description>&amp;ldquo;Your imperfections are what make you perfect&amp;rdquo; is not just a twee word-art slogan on the wall of a chain coffee shop but also a guide for materials chemistry. Defects, the deviations from perfect crystalline order, are key to producing the useful properties of many solids, from solar cells to gemstones. The challenge facing chemists, however, is that defects are hard to see: there are not many of them and they are usually randomly distributed throughout the material.</description>
     </item>
     
@@ -278,10 +260,10 @@ Reading the abstracts from conferences on fields ranging from crystallography th
     
     <item>
       <title>Thiocyanate &#39;Prussian Blues&#39;</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/chemsci_2018_mbiscn6/</link>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</link>
       <pubDate>Mon, 29 Oct 2018 11:00:00 +0000</pubDate>
       
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/chemsci_2018_mbiscn6/</guid>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</guid>
       <description>Left: the structure of Fe[Bi(SCN)6] determined using single crystal X-ray diffraction. Right: the optical absorption spectrum of M[Bi(SCN)6], showing which wavelengths of light each compound absorbs.
 Prussian Blue is an iconic material. Discovered around 1706, ostensibly by adding iron sulfate to a concotion of boiled animal blood and potassium carbonate, it was the first modern purely synthetic pigment. It made blue paint that wouldn&amp;rsquo;t fade available to artists at a low cost and perhaps most famously dyed the uniforms of the Royal Prussian Army from the early 18th century through to the 20th.</description>
     </item>
