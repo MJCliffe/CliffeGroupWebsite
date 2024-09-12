@@ -4,44 +4,37 @@
     <title>Programs on Cliffe Group</title>
     <link>//mjcliffe.github.io/CliffeGroupWebsite/programs/</link>
     <description>Recent content in Programs on Cliffe Group</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate><atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/programs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 12:00:00 +0000</lastBuildDate>
+    <atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/programs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/programs/pascal-v2/</link>
       <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
-      
       <guid>//mjcliffe.github.io/CliffeGroupWebsite/programs/pascal-v2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/programs/indicatrix/</link>
       <pubDate>Tue, 28 Apr 2015 18:44:00 +0000</pubDate>
-      
       <guid>//mjcliffe.github.io/CliffeGroupWebsite/programs/indicatrix/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/programs/pascal/</link>
       <pubDate>Tue, 28 Apr 2015 18:44:00 +0000</pubDate>
-      
       <guid>//mjcliffe.github.io/CliffeGroupWebsite/programs/pascal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/programs/pymolpoly/</link>
       <pubDate>Tue, 28 Apr 2015 18:44:00 +0000</pubDate>
-      
       <guid>//mjcliffe.github.io/CliffeGroupWebsite/programs/pymolpoly/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
