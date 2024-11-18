@@ -6,8 +6,15 @@
     <description>Recent content in Publications on Cliffe Group</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Sep 2024 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 18:50:00 +0000</lastBuildDate>
     <atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remixing 2D magnets</title>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</link>
+      <pubDate>Sun, 17 Nov 2024 18:50:00 +0000</pubDate>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</guid>
+      <description>One of the key attractions of metal-organic materials is their variety: organic molecules can be tweaked and refashioned almost indefinitely. We have recently reported a new &amp;lsquo;crinkly magnet&amp;rsquo;, nickel dichloride 2,1,3-benzothiadizole (btd), with an unusual &amp;ldquo;noncollinear&amp;rdquo; magnetic structure. In this paper we explore what happens when the sulfur atom in btd is swapped for an oxygen atom.&#xA;We use high pressure measurements to show that oxygen makes the metal-organic magnet slightly stiffer, but this stiffness changed more in some directions than others.</description>
+    </item>
     <item>
       <title>Surfing the (mag)net</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/acscs_2024_magnet/</link>
