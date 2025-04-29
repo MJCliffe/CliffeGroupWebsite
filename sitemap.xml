@@ -2,185 +2,193 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/people/mattcliffe/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/mattcliffe/</loc>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/people/rinkukushwaha/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/rinkukushwaha/</loc>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/people/andyjones/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/josephogar/</loc>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/people/simrunlata/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/luisleonalcaide/</loc>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/people/xiaoxuansu/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/andyjones/</loc>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/people/alumni/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/simrunlata/</loc>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/xiaoxuansu/</loc>
+  </url><url>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/amosblyth/</loc>
+  </url><url>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/kubalemanski/</loc>
+  </url><url>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/alumni/</loc>
+  </url><url>
+    <loc>//localhost:1313/CliffeGroupWebsite/</loc>
     <lastmod>2024-11-17T18:50:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</loc>
     <lastmod>2024-11-17T18:50:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/acscs_2024_magnet/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/acscs_2024_magnet/</loc>
     <lastmod>2024-09-12T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2024_thiocyanates/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/ic_2024_thiocyanates/</loc>
     <lastmod>2024-07-09T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</loc>
     <lastmod>2024-07-02T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</loc>
     <lastmod>2024-05-20T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2023_nincs2/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/prb_2023_nincs2/</loc>
     <lastmod>2023-10-31T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/joss_2023_pascal/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/joss_2023_pascal/</loc>
     <lastmod>2023-10-22T18:44:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/programs/pascal-v2/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/programs/pascal-v2/</loc>
     <lastmod>2023-03-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2023_csmncs3/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cs_2023_csmncs3/</loc>
     <lastmod>2023-03-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2023_crpymcl2/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jacs_2023_crpymcl2/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2022_tether/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/ic_2022_tether/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cec_2022_crbiscn6_mag/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cec_2022_crbiscn6_mag/</loc>
     <lastmod>2022-06-26T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2021_insitu_pdf_uio/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jacs_2021_insitu_pdf_uio/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</loc>
     <lastmod>2020-12-04T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2020_mncs2/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/ic_2020_mncs2/</loc>
     <lastmod>2020-07-20T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2020_uio-66_sed/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jacs_2020_uio-66_sed/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</loc>
     <lastmod>2020-02-07T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/revsciinst_squidlab/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/revsciinst_squidlab/</loc>
     <lastmod>2020-02-07T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2019_tinb2o7/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jacs_2019_tinb2o7/</loc>
     <lastmod>2019-12-09T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2019_corr_disorder_linbmno/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cc_2019_corr_disorder_linbmno/</loc>
     <lastmod>2019-07-01T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jma_2019_water_hcp_uio/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jma_2019_water_hcp_uio/</loc>
     <lastmod>2019-02-20T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</loc>
     <lastmod>2018-10-29T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/how_to_topology/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/how_to_topology/</loc>
     <lastmod>2018-10-01T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/old_papers/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/old_papers/</loc>
     <lastmod>2018-06-11T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2018_cuncs2/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/prb_2018_cuncs2/</loc>
     <lastmod>2018-04-26T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2017_soap/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/prb_2017_soap/</loc>
     <lastmod>2017-06-14T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/3dprinting&#43;materials/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/3dprinting&#43;materials/</loc>
     <lastmod>2017-05-01T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2017_uio-67_nanosheets/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jacs_2017_uio-67_nanosheets/</loc>
     <lastmod>2017-03-31T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/nchem_2016_cyanide/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/nchem_2016_cyanide/</loc>
     <lastmod>2016-02-21T18:50:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/eur_2016_zrcdc_breathing/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/eur_2016_zrcdc_breathing/</loc>
     <lastmod>2016-02-12T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2016_procrystals/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/nc_2016_procrystals/</loc>
     <lastmod>2016-02-08T18:50:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2015_mof_glass/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cc_2015_mof_glass/</loc>
     <lastmod>2016-01-06T18:50:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/chefstable&#43;laudan/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/chefstable&#43;laudan/</loc>
     <lastmod>2016-01-03T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/people/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/people/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/programs/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/programs/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/introduction/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/introduction/</loc>
     <lastmod>2015-06-02T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/programs/indicatrix/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/programs/indicatrix/</loc>
     <lastmod>2015-04-28T18:44:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/programs/pascal/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/programs/pascal/</loc>
     <lastmod>2015-04-28T18:44:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/programs/pymolpoly/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/programs/pymolpoly/</loc>
     <lastmod>2015-04-28T18:44:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2015_uio_mechanics/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/pccp_2015_uio_mechanics/</loc>
     <lastmod>2015-03-06T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cec_2015_ferroelastic_cutcm/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cec_2015_ferroelastic_cutcm/</loc>
     <lastmod>2015-01-31T18:50:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2014_mof_defects/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/nc_2014_mof_defects/</loc>
     <lastmod>2015-01-31T18:49:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2014_nac_agtcm/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cc_2014_nac_agtcm/</loc>
     <lastmod>2015-01-31T18:48:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jpcm_2013_invert2/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jpcm_2013_invert2/</loc>
     <lastmod>2015-01-31T18:47:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/pssb_2013_simplicity/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/pssb_2013_simplicity/</loc>
     <lastmod>2015-01-31T18:46:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/bang_explosives/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/bang_explosives/</loc>
     <lastmod>2015-01-31T18:45:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/gc_2013_aging2/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/gc_2013_aging2/</loc>
     <lastmod>2015-01-31T18:45:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/bang_bullvalene/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/bang_bullvalene/</loc>
     <lastmod>2015-01-31T18:45:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/posts/bang_ntenlc/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/posts/bang_ntenlc/</loc>
     <lastmod>2015-01-31T18:45:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/jac_2012_pascal/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/jac_2012_pascal/</loc>
     <lastmod>2015-01-31T18:44:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2012_aging/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/cs_2012_aging/</loc>
     <lastmod>2015-01-31T18:43:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/publications/prl_2010_invert/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/publications/prl_2010_invert/</loc>
     <lastmod>2015-01-31T18:42:00+00:00</lastmod>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/categories/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/categories/</loc>
   </url><url>
-    <loc>//mjcliffe.github.io/CliffeGroupWebsite/tags/</loc>
+    <loc>//localhost:1313/CliffeGroupWebsite/tags/</loc>
   </url>
 </urlset>

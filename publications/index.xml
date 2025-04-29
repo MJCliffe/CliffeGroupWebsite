@@ -2,276 +2,276 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Cliffe Group</title>
-    <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/</link>
+    <link>//localhost:1313/CliffeGroupWebsite/publications/</link>
     <description>Recent content in Publications on Cliffe Group</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 18:50:00 +0000</lastBuildDate>
-    <atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/CliffeGroupWebsite/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remixing 2D magnets</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</link>
       <pubDate>Sun, 17 Nov 2024 18:50:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</guid>
       <description>One of the key attractions of metal-organic materials is their variety: organic molecules can be tweaked and refashioned almost indefinitely. We have recently reported a new &amp;lsquo;crinkly magnet&amp;rsquo;, nickel dichloride 2,1,3-benzothiadizole (btd), with an unusual &amp;ldquo;noncollinear&amp;rdquo; magnetic structure. In this paper we explore what happens when the sulfur atom in btd is swapped for an oxygen atom.&#xA;We use high pressure measurements to show that oxygen makes the metal-organic magnet slightly stiffer, but this stiffness changed more in some directions than others.</description>
     </item>
     <item>
       <title>Surfing the (mag)net</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/acscs_2024_magnet/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/acscs_2024_magnet/</link>
       <pubDate>Thu, 12 Sep 2024 08:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/acscs_2024_magnet/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/acscs_2024_magnet/</guid>
       <description>A net is a periodic (repeating) series of connected points. This concept is at the heart of solid state science because we often think of the chemical structures of materials as comprising atoms connected by bonds, which therefore form a net. The underlying net of a material allows for classification&amp;mdash;is this structure related to that structure&amp;mdash;but also prediction of its properties, e.g. is it likely to be stiff or soft.</description>
     </item>
     <item>
       <title>All iNCSlusive</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2024_thiocyanates/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/ic_2024_thiocyanates/</link>
       <pubDate>Tue, 09 Jul 2024 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2024_thiocyanates/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/ic_2024_thiocyanates/</guid>
       <description>Figure: Periodic table of thiocyanates, showing the state of our knowledge&#xA;There are 118 elements and we are now confident that there will be no more stable elements discovered. Equally, we&amp;rsquo;re fairly confident that there won&amp;rsquo;t be many (if any) binary compounds made with stable elements. You might assume that this settled state of knowledge is correct for other simple compounds; however, this isn&amp;rsquo;t true.&#xA;In this review, I summarise what is known about the solid-state chemistry of the simple anionic molecule thiocyanate bound to metals.</description>
     </item>
     <item>
       <title>Crinkle cut magnets </title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</link>
       <pubDate>Tue, 02 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jacs_2024_nifecl2l/</guid>
       <description>Figure 1. A schematic illustration of how tilting ferromagnetic chains with strong single ion anisotropy can produce a noncollinear structure with a net moment&#xA;In most magnetic materials, the underlying atomic spins line up either parallel (ferromagnetic correlation) or antiparallel (antiferromagnetic correlation): they are collinear. In noncollinear magnets spins can arrange themselves in any direction relative to each other (depending on the interactions and geometry of the material) and these noncollinear spin textures can produce magnetic properties that are hard to realise otherwise, including electrical control over magnetic spin or nanometric magnetic data storage.</description>
     </item>
     <item>
       <title>A molecular framework honeycomb magnet</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/pccp_2024_namnncs3_honeycomb/</guid>
       <description>In this paper we investigate a metal thiocyanate compound [Na(OH2)3]Mn(NCS)3 which consists of rods of a honeycomb manganese thiocyanate network threaded by rods consisting of sodium cations and water. This structure has perfect three-fold symmetry, but unusually, the manganese atom do not lie on an inversion centre (i.e. each metal atom knows which way up it is), although the crystal as a whole does have inversion symmetry.&#xA;Because of the high symmetry of magnetic honeycombs, they can have some interesting magnetic properties and so we decided to measure them for [Na(OH2)3]Mn(NCS)3.</description>
     </item>
     <item>
       <title>High pressure behaviour of the magnetic van der Waals molecular framework Ni(NCS)&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2023_nincs2/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/prb_2023_nincs2/</link>
       <pubDate>Tue, 31 Oct 2023 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2023_nincs2/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/prb_2023_nincs2/</guid>
       <description>Summary by Madeleine Geers&#xA;Selected as Editor&amp;rsquo;s Suggestion&#xA;We investigated what would happen to Ni(NCS)2 when subjected to the force of an elephant over a square centimetre. Elephant by Dmitry Abramov&#xA;Detecting pressure changes plays an essential role in our everyday lives, from biomedical applications such as assessing adhesion of prosthetics, to entering a code on a PIN pad or monitoring gas flow on planes. Often we cannot measure pressure changes directly, so identifying materials whose physical properties, such as magnetism, change when a pressure is applied can be very useful.</description>
     </item>
     <item>
       <title>An open source webtool for calculating compressibilities &amp; thermal expansion</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/joss_2023_pascal/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/joss_2023_pascal/</link>
       <pubDate>Sun, 22 Oct 2023 18:44:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/joss_2023_pascal/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/joss_2023_pascal/</guid>
       <description>Figure: PASCal Logo shows an indicatrix, which plots the anisotropy of response of a crystal.&#xA;This paper describes the newest version of PASCal, a simple webtool designed to calculate the principal thermal expansivities, compressibilities or response to electrochemical strain of a system from lattice parameters. For low symmetry crystals, the arbitrary choice of unit cell means that if you only look at the cell lengths, it is possible to miss interesting features in the (thermo)mechanical behaviour of a crystal, for example negative thermal expansion or negative compressibilities.</description>
     </item>
     <item>
       <title>Nature inspired complex magnetic order</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2023_csmncs3/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cs_2023_csmncs3/</link>
       <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2023_csmncs3/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cs_2023_csmncs3/</guid>
       <description>Summary by Maddie Geers&#xA;Nature is a deep-rooted source of inspiration for innovations, a notion continually woven into our everyday lives. Magnesium silicate (MgSiO3) is one of the most abundant minerals on Earth and about 20 years ago it was discovered to undergo a structural transition. In most of the Earth&amp;rsquo;s mantle, magnesium silicate adopts the perovskite structure, however, plunging to the lower depths of the Earth’s mantle it evolves to have the post-perovskite structure.</description>
     </item>
     <item>
       <title>Designing quantum phases in metal-organic magnets</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2023_crpymcl2/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jacs_2023_crpymcl2/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2023_crpymcl2/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jacs_2023_crpymcl2/</guid>
       <description>Summary by Jem Pitcairn&#xA;Figure 1. Left: the structure of CrCl2(Pym), showing the alternating spin chains weakly coupled by the organic molecules. Right: Inelastic neutron scattering (INS) measurements and calculations which allowed us to measure the strength of the magnetic interactions.&#xA;The spins in typical magnetic materials form 3D ordered arrays as they are cooled, like a liquid solidifying. Some magnets however, form 1D chains or 2D sheets that do not freeze into a static ordered arrangement but stay instead in a dynamic liquid-like state.</description>
     </item>
     <item>
       <title>At the end of the tether</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2022_tether/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/ic_2022_tether/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2022_tether/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/ic_2022_tether/</guid>
       <description>Figure 1: Schematic diagram of the behaviour of oligoMOFs&#xA;A summary of this paper can be found in Nature Reviews Chemistry.&#xA;This work was led by Prof Seth Cohen at the University of California, San Diego.</description>
     </item>
     <item>
       <title>Long-distance (magnetic) relationship</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cec_2022_crbiscn6_mag/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cec_2022_crbiscn6_mag/</link>
       <pubDate>Sun, 26 Jun 2022 12:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cec_2022_crbiscn6_mag/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cec_2022_crbiscn6_mag/</guid>
       <description>Figure. 1 Magnetic order in CrBi(SCN)6. Left: the magnetic superexchange pathways. Right: Neutron diffraction data showing magnetic order.&#xA;Ions with unpaired electrons are magnetic and when those magnetic ions are assembled into a crystalline solid, their magnetic spins interact. At low enough temperatures, these spins therefore typically lock into an ordered state. The temperature at which this ordering happens depends, however, on the strength of the magnetic &amp;rsquo;exchange&amp;rsquo; interactions between the spins, which is strong for ions next to each other (e.</description>
     </item>
     <item>
       <title>Tracking the formation of MOFs in solution</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2021_insitu_pdf_uio/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jacs_2021_insitu_pdf_uio/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2021_insitu_pdf_uio/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jacs_2021_insitu_pdf_uio/</guid>
       <description>Summary by Francesca Firth&#xA;Figure 1: Schematic of stages in the formation of hcp UiO-66(Hf) in solvothermal conditions, through different cluster intermediates.&#xA;Metal-organic frameworks (MOFs) are of great interest for applications such as energy storage and carbon capture, particularly due to their outstanding chemical tunability. In particular, zirconium (Zr) and hafnium (Hf) MOFs are promising for real-world applications because they are very stable. Our previous work discovered that changing the synthesis conditions, including which solvent was used what temperature the reaction was carried out, changed the structure of the MOF that formed for the important UiO family of MOFs.</description>
     </item>
     <item>
       <title>Combining complex orders in perovskites</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</link>
       <pubDate>Fri, 04 Dec 2020 12:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cs_2020_anibiscn6/</guid>
       <description>Many of the most useful properties of materials arise from the collective ordering of many individual nanoscale components across an entire crystal: for example, ferromagnetism is the result of aligning the magnetic spins within a material and ferroelectricity is the ordering of polar electric distortions. One way to create new properties in materials is therefore to order simultaneously multiple different features at once (e.g. combining ferromagnetic order with ferroelectric order to create magnetic and electric &amp;lsquo;multiferroics&amp;rsquo;).</description>
     </item>
     <item>
       <title>Layered magnetic molecular-frameworks</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2020_mncs2/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/ic_2020_mncs2/</link>
       <pubDate>Mon, 20 Jul 2020 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/ic_2020_mncs2/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/ic_2020_mncs2/</guid>
       <description>Figure: Structure and magnetic properties of the magnetic molecular frameworks M(NCS)2 (M = Mn, Fe, Co, Ni). Left: the chemical structure of the M(NCS)2 frameworks; centre: the net magnetic interaction strength for each framework and right: the magnetic structures of M(NCS)2, with arrows denoting the relative orientation of the bar magnets. The magnetic structures of Mn(NCS)2, Fe(NCS)2 and Co(NCS)2 are in orange, and in blue for Ni(NCS)2.&#xA;A team at the University of Nottingham, University of Cambridge and ISIS Neutron and Muon Source have shown that a family of new molecular framework have intriguing magnetic properties.</description>
     </item>
     <item>
       <title>Directly detecting defect domains</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2020_uio-66_sed/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jacs_2020_uio-66_sed/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2020_uio-66_sed/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jacs_2020_uio-66_sed/</guid>
       <description>Figure: Scanning electron diffraction images of UiO-66. Top: a single crystal of UiO-66 visualised in (purple). Bottom: the defect nanodomains (green).&#xA;Defects are key to the properties of all kinds of materials, from silicon chips to turbine blades. Metal-organic frameworks (MOFs) are no exception. Previously, we have shown that nanodomains consisting of a more open structure can be produced within crystals of the most important MOFs, so-called UiO-66, by controlling the synthesis.</description>
     </item>
     <item>
       <title>Diverse defects in metal thiocyanate frameworks</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</link>
       <pubDate>Fri, 07 Feb 2020 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cs_2020_defect_ncs/</guid>
       <description>&amp;ldquo;Your imperfections are what make you perfect&amp;rdquo; is not just a twee word-art slogan on the wall of a chain coffee shop but also a guide for materials chemistry. Defects, the deviations from perfect crystalline order, are key to producing the useful properties of many solids, from solar cells to gemstones. The challenge facing chemists, however, is that defects are hard to see: there are not many of them and they are usually randomly distributed throughout the material.</description>
     </item>
     <item>
       <title>SquidLab</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/revsciinst_squidlab/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/revsciinst_squidlab/</link>
       <pubDate>Fri, 07 Feb 2020 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/revsciinst_squidlab/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/revsciinst_squidlab/</guid>
       <description>A team at the Universities of Warwick, Nottingham and Cambridge have developed open-source software for analysing magnetic data and allowing more sensitive measurements&#xA;Summary by Dr Matt Coak&#xA;Measurements of magnetic properties in the lab are commonplace and essential across a range of physics, chemistry, materials science and even biology. There are many cases however where the magnetic signal of the sample holder or environment swamps that of the material to measure.</description>
     </item>
     <item>
       <title>Ionic and Electronic Conduction in TiNb&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt;</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2019_tinb2o7/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jacs_2019_tinb2o7/</link>
       <pubDate>Mon, 09 Dec 2019 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2019_tinb2o7/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jacs_2019_tinb2o7/</guid>
       <description>Figure: TiNb2O7 is a battery anode material, which allows lithium ions to rapidly pass through it and is a good electrical conductor when lithium is inserted into its structure.&#xA;This work was carried out in collaboration with the groups of Prof Clare Grey and Dr Siân Dutton at the University of Cambridge, Dr Andrew Morris at the University of Birmingham and Prof Graham Henkelman at the University of Texas.</description>
     </item>
     <item>
       <title>Short-range ordering in a battery electrode, the ‘cation-disordered’ rocksalt Li&lt;sub&gt;1.25&lt;/sub&gt;Nb&lt;sub&gt;0.25&lt;/sub&gt;Mn&lt;sub&gt;0.5&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2019_corr_disorder_linbmno/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cc_2019_corr_disorder_linbmno/</link>
       <pubDate>Mon, 01 Jul 2019 10:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2019_corr_disorder_linbmno/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cc_2019_corr_disorder_linbmno/</guid>
       <description>Powder diffraction data, left, X-ray crystal structure, centre, and battery performance, right, the the more ordered and less ordered forms of LiNbMnO.&#xA;This work was carried out in collaboration with the groups of Prof Clare Grey and Dr Siân Dutton at the University of Cambridge.&#xA;Summary by Mike Jones&#xA;Li1.25Nb0.25Mn0.5O2 is a promising new cathode material for Li-ion batteries. It has a reversible capacity to rival that of current state-of-the-art materials, which is thought to be achieved in part through the reversible reduction and oxidation (‘redox’) of oxygen.</description>
     </item>
     <item>
       <title>Faulty Goods? the exciting consequences of introducing defects in MOF frameworks with water</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jma_2019_water_hcp_uio/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jma_2019_water_hcp_uio/</link>
       <pubDate>Wed, 20 Feb 2019 09:30:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jma_2019_water_hcp_uio/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jma_2019_water_hcp_uio/</guid>
       <description>Summary by Francesca Firth&#xA;Reading the abstracts from conferences on fields ranging from crystallography through energy storage to the many branches of materials chemistry, it is a challenge to avoid spotting one on the subject of metal-organic frameworks (MOFs). With their incredible tunability and versatility, arising from the wide range of metal nodes and organic linkers available from which to build a multi-dimensional porous network, MOFs are the source of great excitement in the search for materials for all kinds of applications.</description>
     </item>
     <item>
       <title>Thiocyanate &#39;Prussian Blues&#39;</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</link>
       <pubDate>Mon, 29 Oct 2018 11:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cs_2018_mbiscn6/</guid>
       <description>Left: the structure of Fe[Bi(SCN)6] determined using single crystal X-ray diffraction. Right: the optical absorption spectrum of M[Bi(SCN)6], showing which wavelengths of light each compound absorbs.&#xA;Prussian Blue is an iconic material. Discovered around 1706, ostensibly by adding iron sulfate to a concotion of boiled animal blood and potassium carbonate, it was the first modern purely synthetic pigment. It made blue paint that wouldn&amp;rsquo;t fade available to artists at a low cost and perhaps most famously dyed the uniforms of the Royal Prussian Army from the early 18th century through to the 20th.</description>
     </item>
     <item>
       <title>Low-dimensional quantum magnetism in CuNCS&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2018_cuncs2/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/prb_2018_cuncs2/</link>
       <pubDate>Thu, 26 Apr 2018 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2018_cuncs2/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/prb_2018_cuncs2/</guid>
       <description>Structure and magnetic properties of copper(II) thiocyanate. (a) The structure of Cu(NCS)2. The polymeric chains go into the screen. (b) The low temperature magnetic structure of Cu(NCS)2.&#xA;In most magnetic materials the magnetic spins stop moving and freeze into an ordered array when cooled down. For some materials, for example iron, this happens at hundreds of degrees Celsius; for others, it can be a fraction of a degree above absolute zero (-273 ºC).</description>
     </item>
     <item>
       <title>Keep it simple, silicon</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2017_soap/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/prb_2017_soap/</link>
       <pubDate>Wed, 14 Jun 2017 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/prb_2017_soap/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/prb_2017_soap/</guid>
       <description>Left: structural model of amorphous silicon. Right: The electronic energy levels of amorphous silicon&#xA;Amorphous materials, that is, materials which don&amp;rsquo;t have long-range order, are critical for both windows (silica glass) and Windows (amorphous silicon for TFT screens). Despite their technological importance, we still do not fully understand how the structures of amorphous materials relate to their properties. The relative paucity of experimental information available from X-ray and neutron scattering experiments on amorphous materials (in comparison to crystals) makes determination of their structures challenging.</description>
     </item>
     <item>
       <title>3D MOFs to 2D sheets in 1 easy step</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2017_uio-67_nanosheets/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jacs_2017_uio-67_nanosheets/</link>
       <pubDate>Fri, 31 Mar 2017 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jacs_2017_uio-67_nanosheets/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jacs_2017_uio-67_nanosheets/</guid>
       <description>Figure: Conversion of hcp UiO-67 into nanosheets of hxl UiO-67&#xA;In the past decade or so, people have rediscovered the joys of two dimensions – particularly because of remarkable electronic properties of graphene and other related materials. Very thin sheets of nanoporous materials (like zeolites, for example) are extremely interesting because of their potential as catalysts or membranes for chemical separations. Their thinness lets molecules diffuse rapidly through them, but because they retain the small and uniform pores, they can still discriminate between different kinds of guest molecule.</description>
     </item>
     <item>
       <title>Cyanide and magnetism </title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/nchem_2016_cyanide/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/nchem_2016_cyanide/</link>
       <pubDate>Sun, 21 Feb 2016 18:50:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/nchem_2016_cyanide/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/nchem_2016_cyanide/</guid>
       <description>Both chemists and physicists try to control interactions in materials to produce unusual and useful states of matter, but usually they make use of very different techniques and for very different kinds of materials. In this paper we show that chemists can learn a lot from physicists and hopefully vice versa!&#xA;We look at the surprisingly complicated structures of some simple metal cyanide compounds, and show that these structures can be explained by using an analogy to the physics of intrinsically disordered &amp;lsquo;frustrated&amp;rsquo; magnets.</description>
     </item>
     <item>
       <title>A breathing MOF with nano-correlations</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/eur_2016_zrcdc_breathing/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/eur_2016_zrcdc_breathing/</link>
       <pubDate>Fri, 12 Feb 2016 09:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/eur_2016_zrcdc_breathing/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/eur_2016_zrcdc_breathing/</guid>
       <description>This work was was result of a collaboration with a number of universities and facilities but particularly the group of Prof. Dirk De Vos at KU Leuven university and with Bart Bueken and Frederik Vermoortele.&#xA;One of the remarkable features of MOFs is their flexibility - they can show all kinds of unusual behaviour, from negative linear compressibilities to The most distinctive behaviour is perhaps breathing - guest triggered transitions between very two structures with very different porosities.</description>
     </item>
     <item>
       <title>Disorder, design and vibrations</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2016_procrystals/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/nc_2016_procrystals/</link>
       <pubDate>Mon, 08 Feb 2016 18:50:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2016_procrystals/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/nc_2016_procrystals/</guid>
       <description>Disorder and defects are often thought to be a problem to be solved in materials science - for example, the presence defects and disorder greatly reduces electrical conductivity in crystals. In this paper we examine a particular kind of disordered crystals we termed &amp;lsquo;procrystals&amp;rsquo; and showed that these procrystals have properties impossible to replicate in perfectly ordered crystals.&#xA;Procrystals are solids that would look just like an ordered crystal if you didn&amp;rsquo;t pay attention to the orientation of the building units.</description>
     </item>
     <item>
       <title>Structure of a MOF-derived molecular glass</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2015_mof_glass/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cc_2015_mof_glass/</link>
       <pubDate>Wed, 06 Jan 2016 18:50:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2015_mof_glass/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cc_2015_mof_glass/</guid>
       <description>This work was was result of a collaboration with Kyoto university, particularly with Dr. Daiki Umeyama and Prof. Satoshi Horike.&#xA;Most of the interest in metal-organic frameworks (MOFs) has focussed on those that are ordered and crystalline. Moreover, MOFs typically don&amp;rsquo;t melt when heated, instead decomposing, which means that they can be difficult to form into the shapes needed for useful applications. Glass, in contrast, is is incredibly useful because we can form it into very elaborate shapes without introducing any internal boundaries.</description>
     </item>
     <item>
       <title>Defect-controlled MOF Mechanics</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2015_uio_mechanics/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/pccp_2015_uio_mechanics/</link>
       <pubDate>Fri, 06 Mar 2015 10:00:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/pccp_2015_uio_mechanics/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/pccp_2015_uio_mechanics/</guid>
       <description>In our previous work we discovered that UiO-66, one of the canonical metal-organic frameworks (MOFs), can contain correlated defects, and showed that we have a degree of synthetic control over the presence and distribution of defects.&#xA;In this paper we use this control over defects to tune the physical properties of UiO-66. In particular, we look at the thermomechanical properties of UiO-66 - its response to changing temperature - examine how they change with different concentrations of defects.</description>
     </item>
     <item>
       <title>Flexibility in a ferroelastic MOF</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cec_2015_ferroelastic_cutcm/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cec_2015_ferroelastic_cutcm/</link>
       <pubDate>Sat, 31 Jan 2015 18:50:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cec_2015_ferroelastic_cutcm/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cec_2015_ferroelastic_cutcm/</guid>
       <description>One of most exciting features of metal-organic frameworks (MOFs) is their potential to be incredibly flexible. In this paper we report a new MOF, copper(I) tricyanomethanide, Cu(tcm) that illustrates this very well. Cu(tcm) undergoes a ferroelastic phase transition at Tf = 240 K and below this temperature shows thermal expansion an order-of-magnitude larger than above the transition. In fact, the low-temperature phase α-Cu(tcm) shows &amp;lsquo;colossal&amp;rsquo; positive and negative thermal expansion that is the strongest ever reported for a framework material.</description>
     </item>
     <item>
       <title>MOF Defect Nanoregions</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2014_mof_defects/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/nc_2014_mof_defects/</link>
       <pubDate>Sat, 31 Jan 2015 18:49:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2014_mof_defects/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/nc_2014_mof_defects/</guid>
       <description>The properties of many conventional materials are intimately connected to the presence of correlated defects, including both the solid electrolytes in batteries and high temperature oxide superconductors. Although defects have been recently found to exist in MOFs, the prevailing understanding is that these defects are randomly distributed. In this paper we show for the first time that defects can be correlated in MOFs and that we can control this defects synthetically.</description>
     </item>
     <item>
       <title>Negative Area Compressibility</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2014_nac_agtcm/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cc_2014_nac_agtcm/</link>
       <pubDate>Sat, 31 Jan 2015 18:48:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2014_nac_agtcm/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cc_2014_nac_agtcm/</guid>
       <description>In this paper we report the first known example of a material that shows negative area compressibility , that is a material that expands in two perpendicular directions when compressed hydrostatically (i.e. equally in all directions).&#xA;This counterintutive property is the result of the layered structure of silver (I) tricyanomethanide, Ag(tcm). Due to the weak forces between the layers it is easy to compress the layers together. This in turn also flattens out the ripples within the layers, causing the crystal to expand in the other two directions.</description>
     </item>
     <item>
       <title>Parameterising the INVERT approach</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jpcm_2013_invert2/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jpcm_2013_invert2/</link>
       <pubDate>Sat, 31 Jan 2015 18:47:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jpcm_2013_invert2/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jpcm_2013_invert2/</guid>
       <description>This paper gives more detail about the &amp;lsquo;INVERT&amp;rsquo; approach and outlines both the challenges faced in trying to use data-driven methods for amorphous structural solution and some of the possible solutions to this problem.&#xA;Figure: Ordinarily, the problem solving the structure of amorphous materials from diffraction data is both underconstrained (there are too many solutions) and taxing to reach (the fitting landscape is poorly shaped). This is shown on the left and is compared to an idealised &amp;rsquo;target&amp;rsquo; landscape on the right.</description>
     </item>
     <item>
       <title>Measuring Simplicity</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/pssb_2013_simplicity/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/pssb_2013_simplicity/</link>
       <pubDate>Sat, 31 Jan 2015 18:46:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/pssb_2013_simplicity/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/pssb_2013_simplicity/</guid>
       <description>Quantifying and understanding the structures of amorphous materials can be difficult, because they don&amp;rsquo;t have the long-rage periodicity we rely on to understand the structures of crystals. In this paper, we extend the ideas of our previous work by introducing the concept of &amp;lsquo;structural simplicity&amp;rsquo; in the context of amorphous materials. We also show that structural simplicity can be quantified, and give two easily calculated geometric measures of simplicity. These methods could prove useful for both understanding and determining the structures of amorphous materials.</description>
     </item>
     <item>
       <title>Accelerated aging for making porous MOFs</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/gc_2013_aging2/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/gc_2013_aging2/</link>
       <pubDate>Sat, 31 Jan 2015 18:45:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/gc_2013_aging2/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/gc_2013_aging2/</guid>
       <description>In our previous work, we showed that accelerated aging is a practical method for making metal-organic frameworks (MOFs) without needing bulk solvent or high temperatures from cheap and safe starting materials. In this paper we demonstrate that it is possible to directly make porous MOFs using accelerated aging. We also extend the chemistry to additional metals.&#xA;Figure: An example of a typical aging reaction on 10g scale with Canadian penny for scale.</description>
     </item>
     <item>
       <title>A webtool for calculating compressibilities &amp; thermal expansion</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/jac_2012_pascal/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/jac_2012_pascal/</link>
       <pubDate>Sat, 31 Jan 2015 18:44:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/jac_2012_pascal/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/jac_2012_pascal/</guid>
       <description>This paper describes PASCal, a simple webtool designed to calculate the principal thermal expansivities or compressibilities of a system from lattice parameters. For low symmetry crystals, the arbitrary choice of unit cell means that if you only look at the cell lengths, it is possible to miss interesting features in the (thermo)mechanical behaviour of a crystal, for example negative thermal expansion or negative compressibilities. PASCal is designed to be an easy method for calculating the principal strain values that give the complete description of these systems.</description>
     </item>
     <item>
       <title>Accelerated aging for making MOFs</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2012_aging/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/cs_2012_aging/</link>
       <pubDate>Sat, 31 Jan 2015 18:43:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/cs_2012_aging/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/cs_2012_aging/</guid>
       <description>Metal-organic frameworks have the potential to be materials that form a part of a greener economy. Laboratory syntheses of MOFs however use high temperatures, large amounts toxic solvents and relatively expensive soluble metal sources. If we are ever going to use these materials, therefore, we will need to develop new ways to synthesise them In this paper we report a new low-energy method of making MOFs, which we call &amp;lsquo;accelerated aging&amp;rsquo;.</description>
     </item>
     <item>
       <title>Amorphous structures from diffraction data?</title>
-      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/prl_2010_invert/</link>
+      <link>//localhost:1313/CliffeGroupWebsite/publications/prl_2010_invert/</link>
       <pubDate>Sat, 31 Jan 2015 18:42:00 +0000</pubDate>
-      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/prl_2010_invert/</guid>
+      <guid>//localhost:1313/CliffeGroupWebsite/publications/prl_2010_invert/</guid>
       <description>Despite the importance of disordered materials, we still find it very difficult to determine their structures, because the lack of long-range prevents the use of conventional crystallographic techniques. This &amp;rsquo;nanostructure problem&amp;rsquo; as it has been termed, is one of the biggest challenges in the solid state sciences. In this paper we show that by making use of the idea of &amp;lsquo;invariant&amp;rsquo; local environments in structure determination - in particular by minimising the variance in local data - it is possible to make significantly better models of amorphous and nanostructured materials.</description>
     </item>
   </channel>
