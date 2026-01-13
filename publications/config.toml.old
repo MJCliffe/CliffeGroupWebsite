@@ -1,4 +1,0 @@
-title = "test"
-baseurl = "https://mjc222.user.srcf.net/"
-canonifyurls = true
-theme = "hyde-matt"
