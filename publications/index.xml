@@ -6,8 +6,15 @@
     <description>Recent content in Publications on Cliffe Group</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Nov 2024 18:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="//mjcliffe.github.io/CliffeGroupWebsite/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A glass full of magnetism</title>
+      <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2025_femofglass/</link>
+      <pubDate>Tue, 07 Apr 2026 08:00:00 +0000</pubDate>
+      <guid>//mjcliffe.github.io/CliffeGroupWebsite/publications/nc_2025_femofglass/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//mjcliffe.github.io/CliffeGroupWebsite/images/publications/nc_2025_FeMOFGlass.png&#34; alt=&#34;Fig. 1 Picture of a MOF glass sample and schematic of the atomic scale disordered structure&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Glasses are familiar materials, yet their atomic-scale organisation and physical properties remain difficult to fully understand. This challenge is particularly pronounced for magnetic glasses, where structural disorder strongly affects collective spin behaviour. Most conventional glasses are chemically simple inorganic systems, which limits their tunability and functionality. Metal–organic frameworks (MOFs) combine metal ions and organic linkers, and so by using organic chemistry to create different organic linker molecules, we have the ability to control the magnetic behaviour of MOFs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Remixing 2D magnets</title>
       <link>//mjcliffe.github.io/CliffeGroupWebsite/publications/cc_2024_tune_vdw_mom/</link>
