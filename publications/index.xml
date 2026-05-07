@@ -6,8 +6,15 @@
     <description>Recent content in Publications on FIHM Groups</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:00:00 +0000</lastBuildDate>
     <atom:link href="//fihm.co.uk/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shrinking the gap; strengthening the magnet</title>
+      <link>//fihm.co.uk/publications/cm_2026_crcl2btd/</link>
+      <pubDate>Fri, 01 May 2026 09:00:00 +0000</pubDate>
+      <guid>//fihm.co.uk/publications/cm_2026_crcl2btd/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//fihm.co.uk/images/publications/cm_2026_CrCl2btd.png&#34; alt=&#34;Fig. 1 Left: the structure of CrCl2(benzothiadiazole), with the magnetic spins shown in their ordered state. Right: a schematic figure showing how reducing the electronic gap enhances magnetic interactions.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The forces that cause magnetic spins on atoms to align vary wildly in strength. This means that the temperature at which a given magnetic material orders into its magnetic state can be as high as red hot iron down to fractions of a degree above absolute zero for magnetic refrigerant salts. In most magnetic materials, these interactions between magnetic spins are transmitted through the non-magnetic atoms or molecules that connect them: this is called superexchange. The strength of superexchange depends on many factors, but one key factor is how close in energy the bonding electrons of the linker molecule is to the magnetic electrons: the smaller the gap, the stronger the superexchange. This is often hard to control directly: for examples many ceramic magnets are metal oxides and the oxygen atoms cannot be swapped for other atoms without changing the structure completely.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A glass full of magnetism</title>
       <link>//fihm.co.uk/publications/nc_2025_femofglass/</link>
